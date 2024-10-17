@@ -43,5 +43,5 @@ Then identify the Serial Port section and click on the magnifier lens icon and s
 
 Update and deploy and you're all set, you should be able to use the Panel now.
 
-
-# The Panel
+# Device Address Change
+To change the device addressing, put the new address in the "Address Update" Secrtion of the Panel and click on the "Update Address" Button. The device will reply with an updated configuration string that contains the new address. The change on the address will be effective at the next device power on (so make a power cycle if you want to use the new address).
